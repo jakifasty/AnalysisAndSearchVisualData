@@ -1,0 +1,1 @@
+a) In order to query the SIFT features, we need to store in each node of the vocabulary tree the depth, the number of branch    
